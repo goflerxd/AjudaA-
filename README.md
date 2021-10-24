@@ -1,2 +1,2 @@
 # AjudaA-
-AjudaAí - Projeto do segundo módulo do Curso de Programação Web, Qualifica Mais
+AjudaAí - Projeto do segundo e terceiro módulo do Curso de Programação Web, Qualifica Mais
